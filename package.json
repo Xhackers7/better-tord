@@ -13,12 +13,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ark-maker-bot/better-top.gg.git"
+    "url": "git+https://github.com/ark-maker-bot/better-tord.git"
   },
   "bugs": {
-    "url": "https://github.com/ark-maker-bot/better-top.gg"
+    "url": "https://github.com/ark-maker-bot/better-tord"
   },
-  "homepage": "https://github.com/ark-maker-bot/better-top.gg#readme",
+  "homepage": "https://github.com/ark-maker-bot/better-tord#readme",
   "author": ".nero",
   "license": "ISC"
 }
